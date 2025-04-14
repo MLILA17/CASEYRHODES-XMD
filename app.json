@@ -1,11 +1,11 @@
 {
-  "name": "CASEYRHODES-XMD",
+  "name": "DML-MD",
   "description": "Javascript WhatsApp bot made by CASEYRHODES.",
-  "keywords": ["CASEYRHODES-XMD"],
+  "keywords": ["DML-MD"],
   
   
-  "logo": "https://files.catbox.moe/52dotx.jpg`",
-  "repository": "https://github.com/caseyweb/CASEYRHODES-XMD",
+  "logo": "https://files.catbox.moe/vcdwmp.jpg",
+  "repository": "https://github.com/MLILA17/DML-MD",
   "succes_url": "/",
 
   "stack": "container",
@@ -19,13 +19,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/52dotx.jpg`"
+      "value": "https://files.catbox.moe/vcdwmp.jpg`"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> CASEYRHODES-XMD IS ACTIVE AND ALIVE⚡"
+      "value": "> DML-MD  IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -94,7 +94,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254112192119"
+      "value": "255785591288"
  },
 
     "BOT_NAME": {
